@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Govardhan Lingampalli</h1>
 <h3 align="center">Building career in Software</h3>
 
-- 🔭 I’m currently working at [Imaginnovate - FleetEnable](fleetenable.com)
+- 🔭 I’m currently working at [Imaginnovate - FleetEnable](https://fleetenable.com/)
 
 - 🌱 I’m currently learning **Kafka, Quarkus**
 
