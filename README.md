@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working at [Imaginnovate - FleetEnable](https://fleetenable.com/)
 
-- 🌱 I’m currently learning **Kafka, Quarkus**
-
-- 💬 Ask me about **Java, Spring boot**
+- 💬 Ask me about **Java, Spring boot, MongoDB**
 
 - 📫 You can reach me at **govardhanlingampalli@gmail.com**
 
