@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **govardhanlingampalli@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Govardhan512/Govardhan512/blob/main/Govardhan512.pdf](https://github.com/Govardhan512/Govardhan512/blob/main/Govardhan512.pdf)
+- 📄 Wanna know more about me... Here is my CV: [Govardhan's CV](https://drive.google.com/uc?export=download&id=19DlGXbxQSWx0p5ofxWXbNv4_aAoYCYt2)
 
 - ⚡ Fun fact **I like to play with coding**
 
